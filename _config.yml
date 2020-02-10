@@ -25,3 +25,5 @@ highlighter: rouge
 # Permalinks
 permalink: pretty
 
+gems:
+  - jekyll-debug

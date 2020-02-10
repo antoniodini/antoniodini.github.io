@@ -1,9 +1,57 @@
 <!DOCTYPE html>
-<html>
-  {% include head.html %}
-  <body>
 
-  {{ content }}
+<html lang="en">
+{% include head.html %}
+<body>
+  <div class="container">
+  	<div id="header" class="row">
+  		<div class="sevencol">
+  			<a class="logo" href="/">Mostly, I Write</a>
+  		</div>
+  		<div class="fivecol last">
+  			<p>
+  				<a href="/sitemap">Mappa del sito</a>
+  				<a href="/privacy">Privacy</a>
+  			</p>
+  		</div>
+  	</div>
+  	<div id="nav" class="row">
+  		<div class="twelvecol">
+  			{% include primary_nav.html %}
+  		</div>
+  	</div>
+    {% if page.url == "/" %}
+       {% include home.html %}
+    {% endif %}
 
-  </body>
+    <div class="row">
+
+    </div>
+
+    <div class="row">
+	     <div class="sevencol">
+		       <div class="article">
+             {{ content }}
+
+    		</div>
+    	</div>
+	<div class="fivecol last">
+		<div class="article">
+			{% include sidebar.html %}
+
+
+		</div>
+	</div>
+</div>
+
+<div id="footer" class="row">
+  <div class="twelvecol">
+    <h3>Copyright &copy; 2016
+      <script language="JavaScript">
+        var d=new Date(); yr=d.getFullYear(); if (yr!=2016) document.write("- "+yr);
+      </script> Antonio Dini - Tutti i diritti riservati</h3>
+  </div>
+</div>
+</div>
+</body>
 </html>

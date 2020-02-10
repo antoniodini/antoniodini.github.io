@@ -1,0 +1,14 @@
+# Markdown a tutta birra!
+  
+*Come e perché usare la scrittura “future proof” ultraleggera*
+  
+*Un altro modo di scrivere è possibile!*
+  
+![Markdown a tutta birra!](/images/Markdownlibro.jpg)
+
+### La quarta di copertina:
+Wikipedia definisce il Markdown come un linguaggio di marcatura leggero (*Lightweight markup language*), che poi vuol semplicemente dire che si tratta di un linguaggio di marcatura semplice o umano, nel senso che è basato su una sintassi non intrusiva. Il suo creatore, John Gruber, lo definisce “una sintassi per la formattazione da testo-a-HTML pensata per chi scrive per il web”. Ma non solo, perché “il Markdown consente di scrivere, utilizzando un formato di testo piano, in modo facile da leggere, facile da scrivere, che poi può essere convertito” per qualsiasi altra finalità: da un documento di lavoro al diario personale o al prossimo, grande romanzo italiano. Più semplicemente, che si scriva per passione o per professione, il Markdown è la chiave di volta, che permette di rivoluzionare i propri flussi di lavoro e rendersi indipendenti dalla maggior parte delle grandi piattaforme: Office e Word di Microsoft, Pages di Apple, Google Docs ma anche da Adobe, dai sistemi operativi di Windows, Mac OS X, Android e da tantissimi altri formati proprietari. Con questo eBook: conoscerete la storia del Markdown e dei suoi numerosi dialetti, imparerete a utilizzarlo, troverete recensite ottime app (e stroncate senza peli sulla lingua quelle pessime) per Mac e per iOS, con note anche per Windows e Linux. Alla fine, forse del Markdown non ve ne farete niente, ma intanto avrete capito che un altro modo è possibile.
+
+Markdown a tutta birra costa 1,99 euro
+  
+[Qui si compra](http://www.amazon.it/Markdown-tutta-birra-Antonio-Dini-ebook/dp/B016C63QTW/ref=sr_1_1?s=apparel&ie=UTF8&qid=1458079368&sr=8-1&keywords=markdown+a+tutta+birra) per il Kindle su Amazon e [qui su BookRepublic](https://www.bookrepublic.it/book/9788865866474-markdown-a-tutta-birra/) invece si compra in formato ePub con socialDRM

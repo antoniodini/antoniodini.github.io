@@ -1,0 +1,13 @@
+# Homebrew a tutta birra!
+
+### Progetto avviato
+
+Chi ben comincia è a metà dell'opera. Purtroppo però, nel caso di [questo libretto](https://github.com/antoniodini/homebrew) dedicato a Homebrew, il gestore di pacchetti per macOS che permette di installare e utilizzare applicativi per la riga di comando, direi che mi sono abbastanza incagliato. Ed è un peccato, perché ero davvero vicino alla fine. Senza contare che la serie di libri "A tutta birra!" è un mio pallino da molto, molto tempo. 
+
+Sia come sia, di questo progetto ne scrivevo nel 2017. All'epoca facevo anche riferimento all'idea di poggiare Mostly, I Write su GitHub. Cosa che poi si è rivelata essere il principale problema dal quale, a cascata, sono derivati numerosissimi intoppi e rallentamenti vari. Ma questa è decisamente un'altra storia.
+
+### Dal readme del progetto:
+
+Il motivo per cui ho iniziato a scrivere questo ebook è stata una semplice curiosità personale: Homebrew ha relativamente pochi comandi ma una struttura piuttosto complessa con una terminologia non intuitiva. Per capire meglio una cosa ho bisogno di darmi un obiettivo; così, ho cominciato a studiare il funzionamento di Homebrew e a prendere appunti che si sono trasformati rapidamente nello scheletro di qualcosa di più ampio. Da qui è nata l'idea di fare un piccolo libro-manuale.
+
+A maggio del 2017 ho deciso di iniziare a lavorare su questi appunti trasformandoli in un ebook della mia serie "A tutta birra!" (che fino ad ora ha solo un libro edito, cioè *Markdown a tutta birra!*). Contavo di andare avanti durante l'estate fra prime bozze e revisioni, ma per altri motivi il mio proposito si è arenato. Durante le vacanze di Natale, però, ho sbloccato i lavori del mio sito personale Mostly, I Write, che utilizza GitHub come backend. A questo punto mi sono detto: perché non usare Github anche per altri progetti, ad esempio mettendo online parte del mio magazzino di testi completi o parzialmente finiti? Così, se adesso l'idea è diventata quella di mettere online piano piano altre cose oltre ai contenuti di Mostly, I Write, *Homebrew a tutta birra!* si è rivelato fin da subito il candidato ideale per cominciare.
